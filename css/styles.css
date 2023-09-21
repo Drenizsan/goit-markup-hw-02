@@ -64,12 +64,12 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
-.hero-btn:hover {
+/* .hero-btn:hover {
   color: #404bbf;
 }
 .hero-btn:focus {
   color: #404bbf;
-}
+} */
 .our-team {
   background-color: #f4f4fd;
 }
