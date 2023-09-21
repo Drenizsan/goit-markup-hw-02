@@ -69,9 +69,11 @@ body {
 }
 .hero-btn:hover {
   background-color: #404bbf;
+  color: #404bbf;
 }
 .hero-btn:focus {
   background-color: #404bbf;
+  color: #404bbf;
 }
 .our-team {
   background-color: #f4f4fd;
